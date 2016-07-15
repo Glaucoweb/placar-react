@@ -1,1 +1,1 @@
-# placar-react
+# Placar React
